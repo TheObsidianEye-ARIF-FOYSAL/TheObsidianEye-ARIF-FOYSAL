@@ -25,7 +25,7 @@
 </div>
 
 
-<div align="left"><img src="https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"><div>
+<div align="left"><img src="https://github.com/The-Obsidian-Eyes/The-Obsidian-Eyes/blob/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"><div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
