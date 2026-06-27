@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Arif+Foysal+%F0%9F%91%8B;Mobile+App+Developer+%F0%9F%93%B1;Flutter+%26+Dart+Enthusiast+%F0%9F%92%99;Competitive+Programmer+%E2%9A%94%EF%B8%8F;Game+Developer+in+the+Making+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Hey+there%2C+I'm+Arif+Foysal+%F0%9F%91%8B;Mobile+App+Developer+%F0%9F%93%B1;Flutter+%26+Dart+Enthusiast+%F0%9F%92%99;Competitive+Programmer+%E2%9A%94%EF%B8%8F;Game+Developer+in+the+Making+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
-<img src="https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/main/Grey%20Minimalist%20Linkedin%20Banner.png" width="100%" />
+<img src="https://github.com/TheObsidianEye-ARIF-FOYSAL/TheObsidianEye-ARIF-FOYSAL/blob/main/Grey%20Minimalist%20Linkedin%20Banner.png" width="100%" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Cyb3r-Bishop&label=Profile+Views&color=00D9FF&style=for-the-badge)](https://github.com/Cyb3r-Bishop)
-[![GitHub followers](https://img.shields.io/github/followers/Cyb3r-Bishop?label=Followers&style=for-the-badge&color=00D9FF)](https://github.com/Cyb3r-Bishop)
+[![Profile Views](https://komarev.com/ghpvc/?username=TheObsidianEye-ARIF-FOYSAL&label=Profile+Views&color=00D9FF&style=for-the-badge)](https://github.com/TheObsidianEye-ARIF-FOYSAL)
+[![GitHub followers](https://img.shields.io/github/followers/TheObsidianEye-ARIF-FOYSAL?label=Followers&style=for-the-badge&color=00D9FF)](https://github.com/TheObsidianEye-ARIF-FOYSAL)
 
 </div>
 
@@ -73,10 +73,10 @@ class ArifFoysal {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cyb3r-Bishop&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3r-Bishop&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00D9FF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TheObsidianEye-ARIF-FOYSAL&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheObsidianEye-ARIF-FOYSAL&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00D9FF" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyb3r-Bishop&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="500"/>
+<img src="https://streak-stats.demolab.com?user=TheObsidianEye-ARIF-FOYSAL&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="500"/>
 
 </div>
 
@@ -86,7 +86,7 @@ class ArifFoysal {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cyb3r-Bishop&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheObsidianEye-ARIF-FOYSAL&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
